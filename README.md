@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning and Data Science<br>👯 I’m looking to collaborate on Machine Learning <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Data Science, Machine Learning, Deep Learning and Artificial Intelligence <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Machine Learning and Data Science<br>👯 I’m looking to collaborate on Machine Learning <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Data Science, Machine Learning, Deep Learning and Artificial Intelligence 
 
 
 ## 🌐 Socials:
@@ -26,6 +26,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=udityamerit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=udityamerit&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=udityamerit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🏆 GitHub Trophies 
+![](https://github-profile-trophy.vercel.app/?username=udityamerit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 - 📫 How to reach me **uditmerit@gmail.com**
 
