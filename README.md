@@ -26,6 +26,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=udityamerit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=udityamerit&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=udityamerit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
+
+<h2 align="center">Leetcode Info<h2>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Uditya_Narayan_Tiwari?theme=dark&font=Nunito&ext=heatmap&width=500&height=200&animation=true" />  
+</p>
+
 ### 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=udityamerit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
