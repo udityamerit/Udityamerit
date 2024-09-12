@@ -32,13 +32,13 @@
 <h2 align="center">Leetcode Info<h2>
  
 <p align="center">
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="100" width="100" /></a>
 </p>
 <p align="center">
   
-<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Uditya_Narayan_Tiwari?theme=dark&font=Nunito&ext=heatmap&width=500&height=200&animation=true" /> 
+<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Uditya_Narayan_Tiwari?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" /> 
 </p>
 
 ### 🏆 GitHub Trophies 
