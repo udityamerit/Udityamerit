@@ -51,8 +51,8 @@ I strive to bridge the gap between theoretical knowledge and practical applicati
   <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="90" width="90" /></a>
   <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="90" width="90" /></a>
     <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="90" width="90" /></a>
-<!--   <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="jyot" height="90" width="90" /> -->
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="90" width="90" />
+  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="90" width="90" />
+<!--   <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="90" width="90" /> -->
   
   </a>
     
