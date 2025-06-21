@@ -64,7 +64,18 @@ I strive to bridge the gap between theoretical knowledge and practical applicati
 ### 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=udityamerit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **uditmerit@gmail.com**
+ ## 📧 Connect with Me
+
+**Uditya Narayan Tiwari**
+
+- 🌐 [My Portfolio](https://udityanarayantiwari.netlify.app/)
+
+- 💼 [My LinkedIn](https://www.linkedin.com/in/uditya-narayan-tiwari-562332289/)
+
+- 👨‍💻 [My GitHub](https://github.com/udityamerit)
+
+- 📧 [Email Id](uditmerit@gmail.com)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
