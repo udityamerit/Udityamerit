@@ -45,7 +45,7 @@ I strive to bridge the gap between theoretical knowledge and practical applicati
 
 ## 👀 Profile Views (Live)
 
-[![Live Interactive Chart](docs/thumbnail.png)](https://udityamerit.github.io/udityamerit/)
+[![Live Interactive Chart](docs/thumbnail.png)](https://udityamerit.github.io/Udityamerit/)
 
 **Total (auto-updating):** J8<!--/PV_TOTAL-->
 
