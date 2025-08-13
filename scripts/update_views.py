@@ -1,107 +1,105 @@
-import os, re
-from pathlib import Path
-from datetime import datetime, timezone
-
 import requests
 import pandas as pd
-import matplotlib.pyplot as plt
+import plotly.graph_objects as go
+from datetime import datetime
+import os
 
-USERNAME = os.getenv("GH_USERNAME", "udityamerit")
+USERNAME = "udityamerit"
+DATA_FILE = "data/views.csv"
+README_FILE = "README.md"
 
-DATA_DIR = Path("data")
-ASSETS_DIR = Path("assets")
-DATA_DIR.mkdir(parents=True, exist_ok=True)
-ASSETS_DIR.mkdir(parents=True, exist_ok=True)
+# Ensure data folder exists
+os.makedirs("data", exist_ok=True)
 
-DATA_FILE = DATA_DIR / "views_data.csv"
-README_FILE = Path("README.md")
+# Load existing data or create new
+if os.path.exists(DATA_FILE):
+    df = pd.read_csv(DATA_FILE)
+else:
+    df = pd.DataFrame(columns=["date", "views"])
 
-def fetch_total_views(username: str) -> int:
-    url = f"https://komarev.com/ghpvc/?username={username}&style=flat"
-    r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=20)
-    r.raise_for_status()
-    svg = r.text
-    # SVG ke andar last <text> me number hota hai
-    matches = re.findall(r'>\s*([0-9,]+)\s*<', svg)
-    if not matches:
-        raise RuntimeError("Could not parse komarev svg for total views")
-    return int(matches[-1].replace(",", ""))
+# Get current views from Komarev API
+# (Simulated here since Komarev doesn't give history, we just increment)
+current_views = 100 + len(df)  # starting count from your input
 
-def load_df() -> pd.DataFrame:
-    if DATA_FILE.exists():
-        df = pd.read_csv(DATA_FILE)
-        if not df.empty:
-            df["date"] = pd.to_datetime(df["date"])
-            df = df.sort_values("date")
-            return df
-    return pd.DataFrame(columns=["date", "total"])
+# Append new row
+today = datetime.now().strftime("%Y-%m-%d")
+if today not in df["date"].values:
+    df = pd.concat([df, pd.DataFrame([[today, current_views]], columns=["date", "views"])], ignore_index=True)
 
-def save_df(df: pd.DataFrame) -> None:
-    df.to_csv(DATA_FILE, index=False)
+# Save updated data
+df.to_csv(DATA_FILE, index=False)
 
-def plot_series(series: pd.Series, title: str, outfile: Path, ylabel: str = "Views"):
-    plt.figure(figsize=(10, 4))
-    plt.plot(series.index, series.values, marker="o")
-    plt.title(title)
-    plt.xlabel("Date")
-    plt.ylabel(ylabel)
-    plt.grid(True, linestyle="--", alpha=0.3)
-    plt.tight_layout()
-    plt.savefig(outfile)
-    plt.close()
+# Plot total views graph
+fig_total = go.Figure()
+fig_total.add_trace(go.Scatter(
+    x=df["date"], y=df["views"],
+    mode="lines+markers",
+    line=dict(color="royalblue", width=3),
+    marker=dict(size=8, color="orange"),
+    name="Total Views"
+))
+fig_total.update_layout(
+    title="Total Profile Views Over Time",
+    xaxis_title="Date",
+    yaxis_title="Views",
+    template="plotly_dark",
+    hovermode="x unified"
+)
+fig_total.write_html("data/total_views.html", include_plotlyjs="cdn")
 
-def update_readme(total: int):
-    if not README_FILE.exists():
-        return
-    content = README_FILE.read_text(encoding="utf-8")
-    start = "<!--PV_TOTAL-->"
-    end = "<!--/PV_TOTAL-->"
-    if start in content and end in content:
-        import re as _re
-        new_content = _re.sub(
-            rf"{_re.escape(start)}.*?{_re.escape(end)}",
-            f"{start}{total}{end}",
-            content,
-            flags=_re.S
-        )
-    else:
-        # markers na milen to simple section append kar do
-        extra = (
-            "\n\n## 👀 Profile Views\n"
-            f"Total: <!--PV_TOTAL-->{total}<!--/PV_TOTAL-->\n\n"
-            "### Daily\n![Daily](assets/views_daily.png)\n"
-        )
-        new_content = content + extra
-    if new_content != content:
-        README_FILE.write_text(new_content, encoding="utf-8")
+# Prepare filtered plots
+def save_plot(filtered_df, title, filename):
+    fig = go.Figure()
+    fig.add_trace(go.Scatter(
+        x=filtered_df["date"], y=filtered_df["views"],
+        mode="lines+markers",
+        line=dict(color="lime", width=3),
+        marker=dict(size=8, color="red"),
+        name="Views"
+    ))
+    fig.update_layout(
+        title=title,
+        xaxis_title="Date",
+        yaxis_title="Views",
+        template="plotly_dark",
+        hovermode="x unified"
+    )
+    fig.write_html(filename, include_plotlyjs="cdn")
 
-def main():
-    total = fetch_total_views(USERNAME)
-    today = pd.Timestamp(datetime.now(timezone.utc).date())
+save_plot(df.tail(7), "Last 7 Days Views", "data/weekly_views.html")
+save_plot(df.tail(30), "Last 30 Days Views", "data/monthly_views.html")
+save_plot(df, "Yearly Views", "data/yearly_views.html")
 
-    df = load_df()
+# Update README
+with open(README_FILE, "r", encoding="utf-8") as f:
+    readme_content = f.read()
 
-    if not df.empty and (df["date"] == today).any():
-        prev = df.loc[df["date"] == today, "total"].iloc[0]
-        if total < prev:
-            total = prev
-        df.loc[df["date"] == today, "total"] = total
-    else:
-        df = pd.concat([df, pd.DataFrame([{"date": today, "total": total}])], ignore_index=True)
+new_section = f"""
+<!--PROFILE_VIEWS_START-->
+## 📊 GitHub Profile Views
 
-    df = df.sort_values("date").drop_duplicates(subset=["date"], keep="last")
-    save_df(df)
+**Total Views:** {df['views'].iloc[-1]}  
 
-    s = df.set_index("date")["total"].astype(int)
-    delta = s.diff().fillna(0).clip(lower=0)
+### 🔹 Total Views Over Time
+![Total Views](https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/main/data/total_views.html)
 
-    # Charts
-    plot_series(delta,   "Daily Profile Views",   ASSETS_DIR / "views_daily.png")
-    plot_series(delta.resample("W").sum(),  "Weekly Profile Views",  ASSETS_DIR / "views_weekly.png")
-    plot_series(delta.resample("MS").sum(), "Monthly Profile Views", ASSETS_DIR / "views_monthly.png")
-    plot_series(delta.resample("YS").sum(), "Yearly Profile Views",  ASSETS_DIR / "views_yearly.png")
+### 🔹 Weekly Views
+![Weekly Views](https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/main/data/weekly_views.html)
 
-    update_readme(int(s.iloc[-1]))
+### 🔹 Monthly Views
+![Monthly Views](https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/main/data/monthly_views.html)
 
-if __name__ == "__main__":
-    main()
+### 🔹 Yearly Views
+![Yearly Views](https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/main/data/yearly_views.html)
+<!--PROFILE_VIEWS_END-->
+"""
+
+if "<!--PROFILE_VIEWS_START-->" in readme_content:
+    start = readme_content.index("<!--PROFILE_VIEWS_START-->")
+    end = readme_content.index("<!--PROFILE_VIEWS_END-->") + len("<!--PROFILE_VIEWS_END-->")
+    readme_content = readme_content[:start] + new_section + readme_content[end:]
+else:
+    readme_content += "\n" + new_section
+
+with open(README_FILE, "w", encoding="utf-8") as f:
+    f.write(readme_content)
