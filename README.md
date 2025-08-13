@@ -47,7 +47,7 @@ I strive to bridge the gap between theoretical knowledge and practical applicati
 
 [![Live Interactive Chart](docs/thumbnail.png)](https://udityamerit.github.io/udityamerit/)
 
-**Total (auto-updating):** <!--PV_TOTAL-->loading…<!--/PV_TOTAL-->
+**Total (auto-updating):** J8<!--/PV_TOTAL-->
 
 > Click the image to open the live, interactive dashboard.
 
