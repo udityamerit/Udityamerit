@@ -49,7 +49,7 @@ I strive to bridge the gap between theoretical knowledge and practical applicati
   <img src="https://komarev.com/ghpvc/?username=udityamerit&label=Profile%20views&color=0e75b6&style=flat" alt="udityamerit" />
 </p>
 
-**Total profile views:** <!--PV_TOTAL-->0<!--/PV_TOTAL-->
+**Total profile views:** <!--PV_TOTAL-->84<!--/PV_TOTAL-->
 
 <details>
   <summary><b>Daily</b></summary>
