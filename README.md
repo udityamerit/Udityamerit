@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![MasterHead](dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udityamerit&label=Profile%50views&color=0e75b6&style=flat" alt="udityamerit" /> </p>
 
@@ -105,6 +104,7 @@ I strive to bridge the gap between theoretical knowledge and practical applicati
 [![](https://visitcount.itsvg.in/api?id=udityamerit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->.  
+
 =======
 ![MasterHead](dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif)
 
