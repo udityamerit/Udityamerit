@@ -4,15 +4,15 @@
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1SwQl032ItGq6UFx2Hy9N4t7S1fwelYoq/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄_ My Resume-View_PDF-2ea44f?style=for-the-badge" alt="My Resume"/>
+    <img src="https://img.shields.io/badge/📄 My Resume-View_PDF-2ea44f?style=for-the-badge" alt="My Resume"/>
   </a>
   &nbsp;
   <a href="https://udityanarayantiwari.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_My Portfolio-View_Site-4F46E5?style=for-the-badge" alt="My Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐 My Portfolio-View_Site-4F46E5?style=for-the-badge" alt="My Portfolio"/>
   </a>
   &nbsp;
   <a href="https://udityaknowledgebase.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/📚_ My Knowledge_Base-Learn_More-FF5722?style=for-the-badge" alt="My Knowledge Base"/>
+    <img src="https://img.shields.io/badge/📚 My Knowledge_Base-Learn_More-FF5722?style=for-the-badge" alt="My Knowledge Base"/>
   </a>
 </div>
 
