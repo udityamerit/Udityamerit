@@ -1,14 +1,18 @@
-<p align="center">
+<div align="center">
   <a href="https://drive.google.com/file/d/1SwQl032ItGq6UFx2Hy9N4t7S1fwelYoq/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume" />
+    <img src="https://img.shields.io/badge/📄_Resume-View_PDF-2ea44f?style=for-the-badge" alt="My Resume"/>
   </a>
+  &nbsp;
   <a href="https://udityanarayantiwari.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=for-the-badge&logo=html5" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-View_Site-4F46E5?style=for-the-badge" alt="My Portfolio"/>
   </a>
+  &nbsp;
   <a href="https://udityaknowledgebase.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Knowledge%20Base-Learn%20More-orange?style=for-the-badge&logo=bookstack" alt="Uditya's Knowledge Base" />
+    <img src="https://img.shields.io/badge/📚_Knowledge_Base-Learn_More-FF5722?style=for-the-badge" alt="My Knowledge Base"/>
   </a>
-</p>
+</div>
+
+<br>
 
 
 ![MasterHead](dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif)
