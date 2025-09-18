@@ -1,12 +1,14 @@
-![MasterHead](dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif)
-
 <p align="center">
   <a href="https://drive.google.com/file/d/1SwQl032ItGq6UFx2Hy9N4t7S1fwelYoq/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume" />
   </a>
+  <a href="https://udityanarayantiwari.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=for-the-badge&logo=html5" alt="Portfolio" />
+  </a>
+  <a href="https://udityaknowledgebase.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Knowledge%20Base-Learn%20More-orange?style=for-the-badge&logo=bookstack" alt="Uditya's Knowledge Base" />
+  </a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udityamerit&label=Profile%50views&color=0e75b6&style=flat" alt="udityamerit" /> </p>
 
 
 ![MasterHead](dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif)
