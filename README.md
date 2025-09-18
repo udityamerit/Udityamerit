@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Uditya+Narayan+Tiwari!;" />
+</h1>
+
 <div align="center">
   <a href="https://drive.google.com/file/d/1SwQl032ItGq6UFx2Hy9N4t7S1fwelYoq/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_ My Resume-View_PDF-2ea44f?style=for-the-badge" alt="My Resume"/>
@@ -18,9 +22,6 @@
 ![MasterHead](dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udityamerit&label=Profile%50views&color=0e75b6&style=flat" alt="udityamerit" /> </p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Uditya+Narayan+Tiwari!;" />
-</h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
