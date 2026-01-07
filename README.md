@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Uditya+Narayan+Tiwari!;" />
 </h1>
 
+
 <div align="center">
   <a href="https://drive.google.com/file/d/1SwQl032ItGq6UFx2Hy9N4t7S1fwelYoq/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 My Resume-View_PDF-2ea44f?style=for-the-badge" alt="My Resume"/>
@@ -110,4 +111,5 @@ I strive to bridge the gap between theoretical knowledge and practical applicati
 
 ---
 [![](https://visitcount.itsvg.in/api?id=udityamerit&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
