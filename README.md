@@ -99,7 +99,7 @@ I strive to bridge the gap between theoretical knowledge and practical applicati
 
 - 👨‍💻 [My GitHub](https://github.com/udityamerit)
 
-- 📧 [Email Id](uditmerit@gmail.com)
+- 📧 [Email Id](https://uditmerit@gmail.com)
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=udityamerit&label=Profile%50views&color=0e75b6&style=flat" alt="udityamerit" /> </p>
 
 
@@ -109,6 +109,7 @@ I strive to bridge the gap between theoretical knowledge and practical applicati
 
 ---
 [![](https://visitcount.itsvg.in/api?id=udityamerit&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
