@@ -36,6 +36,7 @@
 
 I am a passionate and dedicated Computer Science professional specializing in Artificial Intelligence (AI) and Machine Learning (ML) with hands-on experience in data analysis, predictive modeling, and full-stack development. My academic journey is enriched with a robust foundation in programming, blockchain technology, and cutting-edge applications of AI/ML in solving real-world challenges.
 
+
 ### 🛠️ Skills & Expertise
 Programming: Proficient in Python, C++, Java, and C, with accolades like a 5-star HackerRank badge in Python and C++ and Solve the 300+ questions on Leetcode.
 Machine Learning & AI: Experienced in using libraries like Scikit-learn, TensorFlow, Pandas, and NumPy for data modeling and analysis.
