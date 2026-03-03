@@ -38,7 +38,6 @@
 
 I am a passionate and dedicated Computer Science professional specializing in Artificial Intelligence (AI) and Machine Learning (ML) with hands-on experience in data analysis, predictive modeling, and full-stack development. My academic journey is enriched with a robust foundation in programming, blockchain technology, and cutting-edge applications of AI/ML in solving real-world challenges.
 
-
 ### 🛠️ Skills & Expertise
 Programming: Proficient in Python, C++, Java, and C, with accolades like a 5-star HackerRank badge in Python and C++ and Solve the 300+ questions on Leetcode.
 Machine Learning & AI: Experienced in using libraries like Scikit-learn, TensorFlow, Pandas, and NumPy for data modeling and analysis.
@@ -49,8 +48,10 @@ I strive to bridge the gap between theoretical knowledge and practical applicati
 
 🔭 I’m currently working on Machine Learning and Data Science<br>👯 I’m looking to collaborate on Machine Learning <br>🤝 I’m looking for help with <br>🌱 I’m currently learning Data Science, Machine Learning, Deep Learning and Artificial Intelligence 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uditya-narayan-tiwari-562332289) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codefusionhindi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KGPTalkie) 
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -62,8 +63,10 @@ I strive to bridge the gap between theoretical knowledge and practical applicati
 </p>
 
 
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
 # 📊 GitHub Stats:
 
 ![Uditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=udityamerit&show_icons=true&theme=radical)
@@ -71,7 +74,6 @@ I strive to bridge the gap between theoretical knowledge and practical applicati
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=udityamerit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h2 align="center">Leetcode Info<h2>
- 
 <p align="center">
   <!-- <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="90" width="90" /></a>-->
   <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="90" width="90" /></a>
