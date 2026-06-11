@@ -29,13 +29,13 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 ### About Me:
-🎓 Uditya Narayan Tiwari
 
-💻 B.Tech in Computer Science and Engineering (AI/ML)
+Hi, I'm **Uditya Narayan Tiwari**, a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning**. I am passionate about building scalable AI solutions, exploring Generative AI, Machine Learning, Deep Learning, and Blockchain technologies.
 
-📍 VIT Bhopal University
+My work focuses on developing practical applications of AI, including Retrieval-Augmented Generation (RAG) systems, Large Language Model (LLM) applications, predictive analytics, and data-driven solutions. I actively contribute to open-source projects, create educational resources, and develop tools that help developers and learners understand complex technologies more effectively.
 
-I am a passionate and dedicated Computer Science professional specializing in Artificial Intelligence (AI) and Machine Learning (ML) with hands-on experience in data analysis, predictive modeling, and full-stack development. My academic journey is enriched with a robust foundation in programming, blockchain technology, and cutting-edge applications of AI/ML in solving real-world challenges.
+I enjoy collaborating with the open-source community, learning from experienced developers, and contributing to projects that create meaningful real-world impact. I am always open to discussions around AI, machine learning, data science, software development, and emerging technologies.
+
 
 ### 🛠️ Skills & Expertise
 Programming: Proficient in Python, C++, Java, and C, with accolades like a 5-star HackerRank badge in Python and C++ and Solve the 300+ questions on Leetcode.
