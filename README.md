@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-  <img src="banner.png" alt="Uditya Coding Animation" width="100%">
+  <img src="image.png" alt="Uditya Coding Animation" width="100%">
 </p>
 
 <br>
