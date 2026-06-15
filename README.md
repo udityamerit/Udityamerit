@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- <a href="https://drive.google.com/file/d/1DJuKxFQB6_tMyKGtw7qxCqTHdqcq1ET2/view?usp=sharing" target="_blank"> -->
-    <a href="https://drive.google.com/file/d/15sewIvvfwmGlh5LKVL31rsGIYZ27pLDm/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1a3wSYCjivXxKhCl8PNCR0H12i7SiPqUz/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 My Resume-View_PDF-2ea44f?style=for-the-badge" alt="My Resume"/>
   </a>
   &nbsp;
