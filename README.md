@@ -75,6 +75,9 @@ My goal is to leverage Artificial Intelligence and Software Engineering to build
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Udityamerit&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=udityamerit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=udityamerit&theme=tokyo-night)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udityamerit&theme=tokyonight)
 
 
 <h2 align="center">Leetcode Info<h2>
@@ -119,10 +122,6 @@ My goal is to leverage Artificial Intelligence and Software Engineering to build
 
 ---
 [![](https://visitcount.itsvg.in/api?id=udityamerit&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
 
 
 
