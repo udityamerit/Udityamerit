@@ -26,26 +26,29 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udityamerit&label=Profile%50views&color=0e75b6&style=flat" alt="udityamerit" /> </p>
 
 
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+
+<!-- <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"> -->
 
 ### About Me:
 
-Hi, I'm **Uditya Narayan Tiwari**, a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning**. I am passionate about building scalable AI solutions, exploring Generative AI, Machine Learning, Deep Learning, and Blockchain technologies.
+# About Me
 
-My work focuses on developing practical applications of AI, including Retrieval-Augmented Generation (RAG) systems, Large Language Model (LLM) applications, predictive analytics, and data-driven solutions. I actively contribute to open-source projects, create educational resources, and develop tools that help developers and learners understand complex technologies more effectively.
+Hello! I'm **Uditya Narayan Tiwari**, a passionate **AI & Machine Learning Engineer**, **Generative AI Developer**, and **Computer Science student specializing in Artificial Intelligence and Machine Learning at VIT Bhopal University**.
 
-I enjoy collaborating with the open-source community, learning from experienced developers, and contributing to projects that create meaningful real-world impact. I am always open to discussions around AI, machine learning, data science, software development, and emerging technologies.
+My journey in technology is driven by a fascination with building intelligent systems that can solve real-world problems. I specialize in **Machine Learning, Deep Learning, Natural Language Processing (NLP), Generative AI, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), Semantic Search, and AI Agents**. I enjoy transforming complex ideas into practical applications that create meaningful impact.
 
+Over the years, I have developed several AI-powered solutions, including **NeuroLens**, an advanced Knowledge Retrieval Engine capable of analyzing documents and web content using RAG pipelines, vector databases, and LLMs. My project portfolio also includes healthcare recommendation systems, intelligent surveillance platforms, weather forecasting applications, and predictive machine learning models.
 
-### 🛠️ Skills & Expertise
-Programming: Proficient in Python, C++, Java, and C, with accolades like a 5-star HackerRank badge in Python and C++ and Solve the 300+ questions on Leetcode.
-Machine Learning & AI: Experienced in using libraries like Scikit-learn, TensorFlow, Pandas, and NumPy for data modeling and analysis.
-Blockchain Technology: Core member of a Blockchain R&D team, actively working on some verification systems.
-Data Visualization: Expertise in creating compelling dashboards and visualizations for insights using tools like Matplotlib and Streamlit.
+Beyond technical development, I actively contribute to the technology community as a **Technical Member & Community Admin of the Microsoft Learn Student Chapter** and previously served as a **Core Team Member of Matrix Media Club**. These experiences have strengthened my leadership, collaboration, and communication skills while allowing me to mentor peers and organize technical initiatives.
 
-I strive to bridge the gap between theoretical knowledge and practical application by innovating sustainable and scalable solutions in AI/ML and Blockchain technologies. Open to collaborations and eager to contribute to global initiatives like Health-Hack and beyond.
+I am also passionate about problem-solving and competitive programming, having solved **400+ coding problems** across various platforms while continuously improving my understanding of Data Structures, Algorithms, and Software Engineering principles.
 
-🔭 I’m currently working on Machine Learning and Data Science<br>👯 I’m looking to collaborate on Machine Learning <br>🤝 I’m looking for help with <br>🌱 I’m currently learning Data Science, Machine Learning, Deep Learning and Artificial Intelligence 
+My technical toolkit includes **Python, C++, Java, SQL, LangChain, Scikit-Learn, Transformers, FAISS, ChromaDB, Flask, Git, GitHub, and modern AI frameworks**. I am constantly exploring emerging technologies and contributing to open-source projects that push the boundaries of AI innovation.
+
+My goal is to leverage Artificial Intelligence and Software Engineering to build scalable, intelligent, and impactful solutions that make technology more accessible and beneficial for everyone.
+
+**Let's build the future with AI.**
+
 
 
 ## 🌐 Socials:
