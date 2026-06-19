@@ -75,14 +75,14 @@ My goal is to leverage Artificial Intelligence and Software Engineering to build
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Udityamerit&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=udityamerit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=udityamerit&theme=tokyo-night)
+<!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=udityamerit&theme=tokyo-night) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udityamerit&theme=tokyonight)
 
 
 <h2 align="center">Leetcode Info<h2>
 <p align="center">
-  <!-- <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="90" width="90" /></a>-->
+  <!-- <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="90" width="90" /></a> -->
   <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="90" width="90" /></a>
   <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="90" width="90" /></a>
   <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="90" width="90" /></a>
