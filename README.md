@@ -71,7 +71,7 @@ My goal is to leverage Artificial Intelligence and Software Engineering to build
 
 # 📊 GitHub Stats:
 
-![Uditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=udityamerit&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=udityamerit&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Udityamerit&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=udityamerit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
