@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- <a href="https://drive.google.com/file/d/1DJuKxFQB6_tMyKGtw7qxCqTHdqcq1ET2/view?usp=sharing" target="_blank"> -->
-    <a href="https://drive.google.com/file/d/1gRaWqRwir1f5fIV6x9qf2_X5ve6lS6_z/view?usp=sharing" target="_blank">
+    <a href="https://github.com/udityamerit/Udityamerit/blob/main/uditya_narayan_tiwari_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 My Resume-View_PDF-2ea44f?style=for-the-badge" alt="My Resume"/>
   </a>
   &nbsp;
@@ -37,6 +37,8 @@ My journey in technology is driven by a fascination with building intelligent sy
 
 Over the years, I have developed several AI-powered solutions, including **NeuroLens**, an advanced Knowledge Retrieval Engine capable of analyzing documents and web content using RAG pipelines, vector databases, and LLMs. My project portfolio also includes healthcare recommendation systems, intelligent surveillance platforms, weather forecasting applications, and predictive machine learning models.
 
+I am the **co-author of [RAGWire](https://github.com/udityamerit/RAGWire) and [SQL Notebook Studio](https://github.com/udityamerit/sql-notebook-studio)**, two open-source projects focused on document intelligence and AI-assisted database workflows.
+
 Beyond technical development, I actively contribute to the technology community as a **Technical Member & Community Admin of the Microsoft Learn Student Chapter** and previously served as a **Core Team Member of Matrix Media Club**. These experiences have strengthened my leadership, collaboration, and communication skills while allowing me to mentor peers and organize technical initiatives.
 
 I am also passionate about problem-solving and competitive programming, having solved **400+ coding problems** across various platforms while continuously improving my understanding of Data Structures, Algorithms, and Software Engineering principles.
@@ -46,6 +48,28 @@ My technical toolkit includes **Python, C++, Java, SQL, LangChain, Scikit-Learn,
 My goal is to leverage Artificial Intelligence and Software Engineering to build scalable, intelligent, and impactful solutions that make technology more accessible and beneficial for everyone.
 
 **Let's build the future with AI.**
+
+## Open Source Co-Authorship
+
+### [RAGWire](https://github.com/udityamerit/RAGWire) | Co-author
+
+An open-source **Python toolkit for document ingestion, retrieval-augmented generation, and grounded question answering**, built around LangChain and Qdrant.
+
+- Ingests PDF, DOCX, XLSX, PPTX, Markdown, and text files with configurable LLM metadata extraction and SHA256 deduplication.
+- Supports metadata-aware retrieval, hybrid dense/sparse search, cross-encoder reranking, cited answers, retrieval evaluation, local/S3 source synchronization, and MCP integration.
+
+**Stack:** Python, LangChain, Qdrant, LLMs, embeddings, RAG.<br/>
+[PyPI](https://pypi.org/project/ragwire/) | [Documentation](https://laxmimerit.github.io/RAGWire/) | [Upstream repository](https://github.com/laxmimerit/RAGWire)
+
+### [SQL Notebook Studio](https://github.com/udityamerit/sql-notebook-studio) | Co-author
+
+An open-source **VS Code extension for Jupyter-style SQL notebooks**, combining database exploration, interactive analysis, and AI-assisted SQL development in one workspace.
+
+- Works with MySQL/MariaDB, PostgreSQL, SQL Server, SQLite, and DuckDB; includes interactive result grids, one-click charts, schema-aware autocomplete, exports, and SSH tunnels.
+- Provides AI-assisted SQL generation, debugging, optimization, and explanation through configurable providers, including local models with Ollama; includes read-only connections and safeguards for destructive queries.
+
+**Stack:** TypeScript, VS Code Extension API, SQL, LangChain, LLMs.<br/>
+[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=kgptalkie.sql-notebook-studio) | [Upstream repository](https://github.com/laxmimerit/sql-notebook-studio)
 
 
 
