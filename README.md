@@ -1,153 +1,70 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Uditya+Narayan+Tiwari!;" />
-</h1>
-
 <div align="center">
-  <!-- <a href="https://drive.google.com/file/d/1DJuKxFQB6_tMyKGtw7qxCqTHdqcq1ET2/view?usp=sharing" target="_blank"> -->
-    <a href="https://github.com/udityamerit/Udityamerit/blob/main/uditya_narayan_tiwari_resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄 My Resume-View_PDF-2ea44f?style=for-the-badge" alt="My Resume"/>
-  </a>
-  &nbsp;
-  <a href="https://udityanarayantiwari.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 My Portfolio-View_Site-4F46E5?style=for-the-badge" alt="My Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://udityaknowledgebase.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/📚 My Knowledge_Base-Learn_More-FF5722?style=for-the-badge" alt="My Knowledge Base"/>
-  </a>
-</div>
 
-<p align="center">
-  <img src="image.png" alt="Uditya Coding Animation" width="100%">
-</p>
+<img src="banner.png" alt="Uditya Narayan Tiwari — AI & Machine Learning Engineer" width="100%">
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udityamerit&label=Profile%50views&color=0e75b6&style=flat" alt="udityamerit" /> </p>
+<a href="https://github.com/udityamerit/Udityamerit/blob/main/uditya_narayan_tiwari_resume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
+<a href="https://udityanarayantiwari.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-View_Site-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://udityaknowledgebase.netlify.app/"><img src="https://img.shields.io/badge/Knowledge_Base-Learn_More-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Knowledge Base"></a>
+<br>
+<a href="https://www.linkedin.com/in/uditya-narayan-tiwari-562332289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://udityanarayan.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://youtube.com/@codefusionhindi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://leetcode.com/Uditya_Narayan_Tiwari/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://www.hackerrank.com/profile/uditmerit"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"></a>
 
+</div>
 
+## About
 
-<!-- <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"> -->
+I'm a B.Tech CSE (AI & ML) student at **VIT Bhopal University** building practical AI systems: retrieval-augmented generation, LLM applications and machine learning pipelines. I co-author two open-source projects, **RAGWire** and **SQL Notebook Studio**, and I'm a Technical Member & Community Admin of the Microsoft Learn Student Chapter.
 
-# About Me:
+- **Focus:** Generative AI, RAG, LLMs, NLP, Semantic Search, AI Agents
+- **Problem solving:** 500+ LeetCode problems (Easy 336 · Medium 181 · Hard 11)
+- **Open to:** internships and full-time roles in AI / ML engineering
 
-Hello! I'm **Uditya Narayan Tiwari**, a passionate **AI & Machine Learning Engineer**, **Generative AI Developer**, and **Computer Science student specializing in Artificial Intelligence and Machine Learning at VIT Bhopal University**.
+## Featured Projects
 
-My journey in technology is driven by a fascination with building intelligent systems that can solve real-world problems. I specialize in **Machine Learning, Deep Learning, Natural Language Processing (NLP), Generative AI, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), Semantic Search, and AI Agents**. I enjoy transforming complex ideas into practical applications that create meaningful impact.
+| Project | What it does | Stack |
+|---|---|---|
+| [**NeuroLens**](https://github.com/udityamerit/NeuroLens-Knowledge-Retrieval-Engine) | Document RAG system with a FastAPI backend and React frontend for analysing documents and web content | FastAPI · React · Vector DB · LLMs |
+| [**RAGWire**](https://github.com/udityamerit/RAGWire) *(co-author)* | Python toolkit for document ingestion, hybrid retrieval, reranking and cited answers | LangChain · Qdrant · Python |
+| [**SQL Notebook Studio**](https://github.com/udityamerit/sql-notebook-studio) *(co-author)* | VS Code extension for Jupyter-style SQL notebooks with AI-assisted querying | TypeScript · VS Code API · LangChain |
+| [**VisionGuard AI**](https://github.com/udityamerit/VisionGuard-AI-An-Intelligent-Surveillance-Platform) | Campus surveillance platform using computer vision and real-time video analytics | YOLOv8 · Python |
+| [**Multimodel Analysis Package**](https://github.com/udityamerit/Multimodel-Analysis-Pacakge) | Auto-trains, evaluates and visualises multiple ML models for classification and regression | Scikit-learn · Pandas |
+| [**Smart Medical Care**](https://github.com/udityamerit/Smart-Medical-Care-For-Rural-Areas) | NLP-based medicine recommendation system | Sentence-Transformers · NLP |
 
-Over the years, I have developed several AI-powered solutions, including **NeuroLens**, an advanced Knowledge Retrieval Engine capable of analyzing documents and web content using RAG pipelines, vector databases, and LLMs. My project portfolio also includes healthcare recommendation systems, intelligent surveillance platforms, weather forecasting applications, and predictive machine learning models.
+### Open-source co-authorship
 
-I am the **co-author of [RAGWire](https://github.com/udityamerit/RAGWire) and [SQL Notebook Studio](https://github.com/udityamerit/sql-notebook-studio)**, two open-source projects focused on document intelligence and AI-assisted database workflows.
+**RAGWire** — Python toolkit for document ingestion, retrieval-augmented generation and grounded question answering, built around LangChain and Qdrant. Supports PDF, DOCX, XLSX, PPTX, Markdown and text files, hybrid dense/sparse search, cross-encoder reranking, cited answers, SHA256 deduplication and MCP integration.
+[PyPI](https://pypi.org/project/ragwire/) · [Documentation](https://laxmimerit.github.io/RAGWire/) · [Upstream repository](https://github.com/laxmimerit/RAGWire)
 
-Beyond technical development, I actively contribute to the technology community as a **Technical Member & Community Admin of the Microsoft Learn Student Chapter** and previously served as a **Core Team Member of Matrix Media Club**. These experiences have strengthened my leadership, collaboration, and communication skills while allowing me to mentor peers and organize technical initiatives.
+**SQL Notebook Studio** — VS Code extension for Jupyter-style SQL notebooks covering MySQL/MariaDB, PostgreSQL, SQL Server, SQLite and DuckDB, with interactive result grids, one-click charts, schema-aware autocomplete, SSH tunnels and AI-assisted SQL generation, debugging and optimisation (including local models via Ollama).
+[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=kgptalkie.sql-notebook-studio) · [Upstream repository](https://github.com/laxmimerit/sql-notebook-studio)
 
-I am also passionate about problem-solving and competitive programming, having solved **400+ coding problems** across various platforms while continuously improving my understanding of Data Structures, Algorithms, and Software Engineering principles.
+## Tech Stack
 
-My technical toolkit includes **Python, C++, Java, SQL, LangChain, Scikit-Learn, Transformers, FAISS, ChromaDB, Flask, Git, GitHub, and modern AI frameworks**. I am constantly exploring emerging technologies and contributing to open-source projects that push the boundaries of AI innovation.
+**Languages** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-My goal is to leverage Artificial Intelligence and Software Engineering to build scalable, intelligent, and impactful solutions that make technology more accessible and beneficial for everyone.
+**ML / Deep Learning** &nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-**Let's build the future with AI.**
+**GenAI & RAG** &nbsp; ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-## Open Source Co-Authorship
+**Backend & Tools** &nbsp; ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### [RAGWire](https://github.com/udityamerit/RAGWire) | Co-author
+## GitHub Stats
 
-An open-source **Python toolkit for document ingestion, retrieval-augmented generation, and grounded question answering**, built around LangChain and Qdrant.
-
-- Ingests PDF, DOCX, XLSX, PPTX, Markdown, and text files with configurable LLM metadata extraction and SHA256 deduplication.
-- Supports metadata-aware retrieval, hybrid dense/sparse search, cross-encoder reranking, cited answers, retrieval evaluation, local/S3 source synchronization, and MCP integration.
-
-**Stack:** Python, LangChain, Qdrant, LLMs, embeddings, RAG.<br/>
-[PyPI](https://pypi.org/project/ragwire/) | [Documentation](https://laxmimerit.github.io/RAGWire/) | [Upstream repository](https://github.com/laxmimerit/RAGWire)
-
-### [SQL Notebook Studio](https://github.com/udityamerit/sql-notebook-studio) | Co-author
-
-An open-source **VS Code extension for Jupyter-style SQL notebooks**, combining database exploration, interactive analysis, and AI-assisted SQL development in one workspace.
-
-- Works with MySQL/MariaDB, PostgreSQL, SQL Server, SQLite, and DuckDB; includes interactive result grids, one-click charts, schema-aware autocomplete, exports, and SSH tunnels.
-- Provides AI-assisted SQL generation, debugging, optimization, and explanation through configurable providers, including local models with Ollama; includes read-only connections and safeguards for destructive queries.
-
-**Stack:** TypeScript, VS Code Extension API, SQL, LangChain, LLMs.<br/>
-[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=kgptalkie.sql-notebook-studio) | [Upstream repository](https://github.com/laxmimerit/sql-notebook-studio)
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uditya-narayan-tiwari-562332289) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codefusionhindi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KGPTalkie) 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/uditya-narayan-tiwari-562332289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uditya-narayan-tiwari-562332289" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@codefusionhindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codefusionhindi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@uditmerit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@uditmerit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@uditya_narayan_tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@uditya_narayan_tiwari" height="30" width="40" /></a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=udityamerit&show_icons=true&hide_border=false&bg_color=0A1020&title_color=38BDF8&icon_color=818CF8&text_color=C9D6EA&border_color=1E2A4A" alt="GitHub stats" height="190">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udityamerit&layout=compact&hide_border=false&include_all_commits=true&count_private=true&bg_color=0A1020&title_color=38BDF8&text_color=C9D6EA&border_color=1E2A4A" alt="Top languages" height="190">
 </p>
 
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=udityamerit&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Udityamerit&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=udityamerit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=udityamerit&theme=tokyo-night) -->
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udityamerit&theme=tokyonight)
-
-
-<h2 align="center">Leetcode Info<h2>
 <p align="center">
-  <!-- <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="90" width="90" /></a> -->
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="90" width="90" /></a>
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="90" width="90" /></a>
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="90" width="90" /></a>
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="jyot" height="90" width="90" /></a>
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="90" width="90" /></a>
-  <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="jyot" height="90" width="90" /></a>
-      
-<!--   <a href="https://leetcode.com/Uditya_Narayan_Tiwari/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="90" width="90" /> -->
-  
-  </a>
-    
-<p align="center">
-  
-<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Uditya_Narayan_Tiwari?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" /> 
+<img src="https://leetcard.jacoblin.cool/Uditya_Narayan_Tiwari?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" alt="LeetCode stats">
 </p>
 
-### 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=udityamerit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Community
 
- ## 📧 Connect with Me
-
-**Uditya Narayan Tiwari**
-
-- 🌐 [My Portfolio](https://udityanarayantiwari.netlify.app/)
-
-- 💼 [My LinkedIn](https://www.linkedin.com/in/uditya-narayan-tiwari-562332289/)
-
-- 👨‍💻 [My GitHub](https://github.com/udityamerit)
-
-- 📧 [Email Id](https://uditmerit@gmail.com)
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=udityamerit&label=Profile%50views&color=0e75b6&style=flat" alt="udityamerit" /> </p>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=udityamerit&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
-
-
+- Technical Member & Community Admin — Microsoft Learn Student Chapter
+- Former Core Team Member — Matrix Media Club
